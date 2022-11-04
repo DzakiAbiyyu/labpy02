@@ -37,12 +37,12 @@ else:
 
 berikut ketika kode diatas saya tuliskan di pycharm :
 
-![gambar1](modul1\gambar\tugas1.jpg)
+![gambar1](modul%201\gambar\tugas1.jpg)
 
 
 langkah terakhir yaitu testing, saya coba masukkan angka 3 dan 5:
 
-![gambar2](ss4/ss2.png)
+![gambar2](modul%201\gambar\hasil%20tugas1.jpg)
 
 Kelemahan dari kode di atas adalah, jika kita masukkan 2 angka yang sama, maka nilai y lah yang dianggap terbesar. Kita bisa memodifikasi sendiri agar kalau angkanya sama, output yang ditampilkan adalah “Kedua angka sama”, atau yang semisalnya.
 
@@ -73,12 +73,12 @@ Pada program diatas, misi kita adalah mengurutkan data yang ada pada array list 
 Untuk itu kita bisa gunakan fungsi sort(), dengan menggunakan kode program luas.sort(). Tidak perlu ada parameter yang kita tulis dalam fungsi sort(). 
 Untuk lebih jelasnya bisa dilihat pada  program python sederhana di bawah ini.
 
-![gambar3](ss4/ss3.png)
+![gambar3](modul%201\gambar\tugas2.jpg)
 
 Setelah itu kita ingin buktikan, kita coba tampilkan hasil dari pengurutan tersebut menggunakan fungsi print().
 Setelah ditampilkan kita bisa lihat bahwa data di dalam array list python kini sudah terurut dari nilai terkecil ke nilai terbesar.
 
-![gambar4](ss4/ss4.png)
+![gambar4](modul%201\gambar\hasil%20tugas2.jpg)
 
 
 ## Lab 3 : Perulangan
@@ -87,7 +87,7 @@ Setelah ditampilkan kita bisa lihat bahwa data di dalam array list python kini s
 
 • Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 
-![gambar7](ss4/ss7.png)
+![gambar7](modul%201\gambar\latihan1.jpg)
 
 Dari soal diats kita dapat memahami bahwa dalam pembuatan program diatas, kita perlu memnbuat dua pernyataan for yang bertingkat. Fungsi for yang tertinggi atau yang terluar kita tempatkan untuk mengatur banyaknya baris yang akan kita buat dengan batasan yaitu seanyak n kali. Dan pada pernyataan for yang berikutnya, kita gunakan untuk membuat barisan angka yang berjejer mulai dari 1 hingga batasan ke-n.
 
@@ -101,14 +101,14 @@ for i in range(0,10):
 
 kita dapat membuatkan program diatas sebagai berikut.
 
-![gambar5](ss4/ss5.png)
+![gambar5](modul%201\gambar\hasil%20latihan1.jpg)
 
 range(0,10) artinya melakukan perulangan antara 0 sampai 10(0 dan 10 tidak termasuk.
 
 
 Program yang telah kita buat seperti pada gambar diatas jika kita coba untuk running amaka akan diperoleh hasil sebagai berikut :
 
-![gambar6](ss4/ss6.png)
+![gambar5](modul%201\gambar\hasil%20latihan1.jpg)
 
 
 ### Latihan 2
@@ -131,7 +131,6 @@ berikut langkah-langkah untuk menampilkan bilangan acak yang lebih kecil dari 0.
 
 6.Selesai
 
-![gambar6](ss4/ss8.png)
 
 berikut penjelasan dari program diatas :
 
@@ -157,9 +156,6 @@ for i in range(n):
 "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 
 berikut hasil program setelah di run :
-
-![gambar6](ss4/ss9.png)
+![gambar6](modul%201\gambar\hasil%20latihan2.jpg)
 
 sekian penjelasan dari saya, terima kasih :)
-
-#### Author : Febriyani Nurhida
